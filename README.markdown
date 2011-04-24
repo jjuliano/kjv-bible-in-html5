@@ -3,6 +3,7 @@ KJV Bible in HTML5
 Books currently processed:
 
  * Genesis
+ * Exodus
 
 Todos:
 
