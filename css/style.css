@@ -1,0 +1,85 @@
+body {
+  font-family: 'Droid Serif', arial, serif;
+}
+
+/* Book Name */
+header.header h1 {
+}
+
+/* TOC Block */
+header.header nav.toc {
+}
+
+/* TOC Title */
+header.header nav.toc h2 {
+}
+
+/* TOC Contents */
+header.header nav.toc ul {
+}
+
+/* TOC Chapter Block */
+header.header nav.toc ul li.toc-chapter {
+}
+
+/* TOC Chapter Link */
+header.header nav.toc ul li.toc-chapter a {
+  text-decoration: none;
+}
+
+/* TOC Verse Block */
+header.header nav.toc ul li.toc-chapter ul.toc-verse {
+}
+
+/* TOC Verse List */
+header.header nav.toc ul li.toc-chapter ul.toc-verse li {
+}
+
+/* TOC Verse Link */
+header.header nav.toc ul li.toc-chapter ul.toc-verse li a {
+  text-decoration: none;
+}
+
+/* Content Block */
+body article {
+}
+
+/* Content Book Title Header */
+body article header h1 {
+}
+
+/* Chapter Block */
+body article section.chapter {
+}
+
+/* Chapter Header */
+body article section.chapter h2 {
+}
+
+/* Chapter Paragraph */
+body article section.chapter p.paragraph {
+  line-height: 180%;
+}
+
+/* Chapter Verse Link */
+body article section.chapter p.paragraph a.verse {
+  text-decoration: none;
+}
+
+/* Person Defenitions */
+body article section.chapter p.paragraph dfn.person {
+}
+
+body article section.chapter p.paragraph span.illuminated {
+  font-size:20px;
+  font-family: "Baskerville", "Goudy Old Style", "Palatino", "Book Antiqua", "Vollkorn", serif;
+  color:#000000; float:left;
+  font-size:5.5em;
+  font-style:normal;
+  font-weight:normal;
+  line-height: 1em;
+  margin-right: 10px;
+  text-decoration:none;
+  text-transform:uppercase;
+  vertical-align:top;
+}
