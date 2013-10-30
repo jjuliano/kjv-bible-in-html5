@@ -7,3 +7,6 @@ KJV Bible in HTML5
 * Prepared and compiled by Joel Bryan Juliano (https://github.com/jjuliano/kjv-bible-in-html5).
  
 This HTML5 document is licensed under Public Domain.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jjuliano/kjv-bible-in-html5/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
